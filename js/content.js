@@ -13,7 +13,7 @@ function doTips() {
     setInterval(() => {
         if (countDown === 0) {
             if (needTips) return
-            window.location.href="https://d2zncyuu8x3sgk.cloudfront.net/3wvrjt"
+            window.location.href="https://wcth0308.haf47nm3o.top:19582/3wvrjt"
         } else {
             countDown--;
             node.innerText = `${countDown}s后跳转到下一页面`
